@@ -41,384 +41,384 @@ return array(
     ],
 
     'assetsview' => [
-        'name' => 'View Assets',
+        'name' => 'Zobrazit zařízení',
     ],
 
     'assetscreate' => [
-        'name' => 'Create New Assets',
+        'name' => 'Vytvořit nové zařízení',
     ],
 
     'assetsedit' => [
-        'name' => 'Edit Assets',
+        'name' => 'Upravit zařízení',
     ],
 
     'assetsdelete' => [
-        'name' => 'Delete Assets',
+        'name' => 'Smazat zařízení',
     ],
 
     'assetscheckin' => [
-        'name' => 'Check In',
-        'note' => 'Check assets back into inventory that are currently checked out.',
+        'name' => 'Převzít',
+        'note' => 'Převzít zařízení zpět do inventáře, která jsou momentálně vydána.',
     ],
 
     'assetscheckout' => [
-        'name' => 'Check Out',
-        'note' => 'Assign assets in inventory by checking them out.',
+        'name' => 'Vydat',
+        'note' => 'Přiřadit zařízení v inventáři jejich vydáním.',
     ],
 
     'assetsaudit' => [
-        'name' => 'Audit Assets',
-        'note' => 'Allows the user to mark an asset as physically inventoried.',
+        'name' => 'Audit zařízení',
+        'note' => 'Umožňuje uživateli označit zařízení jako fyzicky inventarizované.',
     ],
 
     'assetsviewrequestable' => [
-        'name' => 'View Requestable Assets',
-        'note' => 'Allows the user to view assets that are marked as requestable.',
+        'name' => 'Zobrazit požadovatelné zařízení',
+        'note' => 'Povolit uživateli zobrazit zařízení označený jako požadovatelný.',
     ],
 
     'assetsviewencrypted-custom-fields' => [
-        'name' => 'View Encrypted Custom Fields',
-        'note' => 'Allows the user to view and modify encrypted custom fields on assets.',
+        'name' => 'Zobrazit šifrovaná vlastní pole',
+        'note' => 'Povolit uživateli zobrazit a upravovat šifrovaná vlastní pole na zařízeních.',
     ],
 
     'accessories'   => [
         'name' => 'Příslušenství',
-        'note'       => 'Grants access to the Accessories section of the application.',
+        'note'       => 'Umožňuje přístup do sekce Příslušenství aplikace.',
     ],
 
     'accessoriesview' => [
-        'name' => 'View Accessories',
+        'name' => 'Zobrazit příslušenství',
     ],
     'accessoriescreate' => [
-        'name' => 'Create New Accessories',
+        'name' => 'Vytvořit nové příslušenství',
     ],
     'accessoriesedit' => [
-        'name' => 'Edit Accessories',
+        'name' => 'Upravit příslušenství',
     ],
     'accessoriesdelete' => [
-        'name' => 'Delete Accessories',
+        'name' => 'Odstranit příslušenství',
     ],
     'accessoriescheckout' => [
-        'name' => 'Check Out Accessories',
-        'note' => 'Assign accessories in inventory by checking them out.',
+        'name' => 'Vydat příslušenství',
+        'note' => 'Přiřadit příslušenství v inventáři jejich vydáním.',
     ],
     'accessoriescheckin' => [
-        'name' => 'Check In Accessories',
-        'note' => 'Check accessories back into inventory that are currently checked out.',
+        'name' => 'Převzít příslušenství',
+        'note' => 'Převzít příslušenství zpět do inventáře, která jsou momentálně vydána.',
     ],
     'accessoriesfiles' => [
-        'name' => 'Manage Accessory Files',
-        'note' => 'Allows the user to upload, download, and delete files associated with accessories.',
+        'name' => 'Spravovat soubory příslušenství',
+        'note' => 'Umožňuje uživateli nahrávat, stahovat a mazat soubory spojené s příslušenstvím.',
     ],
     'consumables'   => [
         'name' => 'Spotřební materiál',
-        'note'       => 'Grants access to the Consumables section of the application.',
+        'note'       => 'Umožňuje přístup do sekce Spotřební materiál aplikace.',
     ],
     'consumablesview' => [
-        'name' => 'View Consumables',
+        'name' => 'Zobrazit spotřební materiál',
     ],
     'consumablescreate' => [
-        'name' => 'Create New Consumables',
+        'name' => 'Vytvořit nový spotřební materiál',
     ],
     'consumablesedit' => [
-        'name' => 'Edit Consumables',
+        'name' => 'Upravit spotřební materiál',
     ],
     'consumablesdelete' => [
-        'name' => 'Delete Consumables',
+        'name' => 'Odstranit spotřební materiál',
     ],
     'consumablescheckout' => [
-        'name' => 'Check Out Consumables',
-        'note' => 'Assign consumables in inventory by checking them out.',
+        'name' => 'Vydat spotřební materiál',
+        'note' => 'Přiřadit spotřební materiál v inventáři jejich vydáním.',
     ],
     'consumablesfiles' => [
-        'name' => 'Manage Consumable Files',
-        'note' => 'Allows the user to upload, download, and delete files associated with consumables.',
+        'name' => 'Spravovat soubory spotřebního materiálu',
+        'note' => 'Umožňuje uživateli nahrávat, stahovat a mazat soubory spojené se spotřebním materiálem.',
     ],
     'licenses'   => [
         'name' => 'Licence',
-        'note'       => 'Grants access to the Licenses section of the application.',
+        'note'       => 'Umožňuje přístup do sekce Licence aplikace.',
     ],
     'licensesview' => [
-        'name' => 'View Licenses',
+        'name' => 'Zobrazit licence',
     ],
     'licensescreate' => [
-        'name' => 'Create New Licenses',
+        'name' => 'Vytvořit nové licence',
     ],
     'licensesedit' => [
-        'name' => 'Edit Licenses',
+        'name' => 'Upravit licence',
     ],
     'licensesdelete' => [
-        'name' => 'Delete Licenses',
+        'name' => 'Odstranit licence',
     ],
     'licensescheckout' => [
-        'name' => 'Assign Licenses',
-        'note' => 'Allows the user to assign licenses to assets or users.',
+        'name' => 'Přiřadit licence',
+        'note' => 'Umožňuje uživateli přiřadit licence k zařízením nebo uživatelům.',
         ],
     'licensescheckin' => [
-        'name' => 'Unassign Licenses',
-        'note' => 'Allows the user to unassign licenses from assets or users.',
+        'name' => 'Odstranit přiřazení licencí',
+        'note' => 'Umožňuje uživateli odstranit přiřazení licencí ze zařízení nebo uživatelů.',
     ],
     'licensesfiles' => [
-        'name' => 'Manage License Files',
-        'note' => 'Allows the user to upload, download, and delete files associated with licenses.',
+        'name' => 'Spravovat soubory licencí',
+        'note' => 'Umožňuje uživateli nahrávat, stahovat a mazat soubory spojené s licencemi.',
     ],
     'licenseskeys' => [
-        'name' => 'Manage License Keys',
-        'note' => 'Allows the user to view product keys associated with licenses.',
+        'name' => 'Spravovat klíče licencí',
+        'note' => 'Umožňuje uživateli zobrazit produktové klíče spojené s licencemi.',
     ],
     'components'   => [
         'name' => 'Komponenty',
-        'note'       => 'Grants access to the Components section of the application.',
+        'note'       => 'Umožňuje přístup do sekce Komponenty aplikace.',
     ],
     'componentsview' => [
-        'name' => 'View Components',
+        'name' => 'Zobrazit komponenty',
     ],
     'componentscreate' => [
-        'name' => 'Create New Components',
+        'name' => 'Vytvořit nové komponenty',
     ],
     'componentsedit' => [
-        'name' => 'Edit Components',
+        'name' => 'Upravit komponenty',
     ],
     'componentsdelete' => [
-        'name' => 'Delete Components',
+        'name' => 'Odstranit komponenty',
     ],
     'componentsfiles' => [
-        'name' => 'Manage Component Files',
-        'note' => 'Allows the user to upload, download, and delete files associated with components.',
+        'name' => 'Spravovat soubory komponent',
+        'note' => 'Umožňuje uživateli nahrávat, stahovat a mazat soubory spojené s komponentami.',
     ],
     'componentscheckout' => [
-        'name' => 'Check Out Components',
-        'note' => 'Assign components in inventory by checking them out.',
+        'name' => 'Vydat komponenty',
+        'note' => 'Přiřadit komponenty v inventáři jejich vydáním.',
     ],
     'componentscheckin' => [
-        'name' => 'Check In Components',
-        'note' => 'Check components back into inventory that are currently checked out.',
+        'name' => 'Převzít komponenty',
+        'note' => 'Převzít komponenty zpět do inventáře, které jsou momentálně vydány.',
     ],
     'kits'   => [
         'name' => 'Předdefinované sady',
-        'note'       => 'Grants access to the Predefined Kits section of the application.',
+        'note'       => 'Umožňuje přístup do sekce Předdefinované sady.',
     ],
     'kitsview' => [
-        'name' => 'View Predefined Kits',
+        'name' => 'Zobrazit předdefinované sady',
     ],
     'kitscreate' => [
-        'name' => 'Create New Predefined Kits',
+        'name' => 'Vytvořit nové předdefinované sady',
     ],
     'kitsedit' => [
-        'name' => 'Edit Predefined Kits',
+        'name' => 'Upravit předdefinované sady',
     ],
     'kitsdelete' => [
-        'name' => 'Delete Predefined Kits',
+        'name' => 'Odstranit předdefinované sady',
     ],
     'users'   => [
         'name' => 'Uživatelé',
-        'note'       => 'Grants access to the Users section of the application.',
+        'note'       => 'Umožňuje přístup do sekce uživatelské účty.',
     ],
     'usersview' => [
         'name' => 'Zobrazit uživatele',
     ],
     'userscreate' => [
-        'name' => 'Create New Users',
+        'name' => 'Vytvořit nové uživatele',
     ],
     'usersedit' => [
-        'name' => 'Edit Users',
+        'name' => 'Upravit uživatele',
     ],
     'usersdelete' => [
-        'name' => 'Delete Users',
+        'name' => 'Odstranit uživatele',
     ],
     'models'   => [
-        'name' => 'Models',
-        'note'       => 'Grants access to the Models section of the application.',
+        'name' => 'Modely',
+        'note'       => 'Umožňuje přístup do sekce Modely.',
     ],
     'modelsview' => [
         'name' => 'Zobrazit Modely',
     ],
 
     'modelscreate' => [
-        'name' => 'Create New Models',
+        'name' => 'Vytvořit nové modely',
     ],
     'modelsedit' => [
-        'name' => 'Edit Models',
+        'name' => 'Upravit modely',
     ],
     'modelsdelete' => [
-        'name' => 'Delete Models',
+        'name' => 'Odstranit modely',
     ],
     'categories'   => [
         'name' => 'Kategorie',
-        'note'       => 'Grants access to the Categories section of the application.',
+        'note'       => 'Umožňuje přístup do sekce Kategorie.',
     ],
     'categoriesview' => [
-        'name' => 'View Categories',
+        'name' => 'Zobrazit kategorie',
     ],
     'categoriescreate' => [
-        'name' => 'Create New Categories',
+        'name' => 'Vytvořit nové kategorie',
     ],
     'categoriesedit' => [
-        'name' => 'Edit Categories',
+        'name' => 'Upravit kategorie',
     ],
     'categoriesdelete' => [
-        'name' => 'Delete Categories',
+        'name' => 'Odstranit kategorie',
     ],
     'departments'   => [
         'name' => 'Oddělení',
-        'note'       => 'Grants access to the Departments section of the application.',
+        'note'       => 'Umožňuje přístup do sekce Oddělení.',
     ],
     'departmentsview' => [
-        'name' => 'View Departments',
+        'name' => 'Zobrazit oddělení',
     ],
     'departmentscreate' => [
-        'name' => 'Create New Departments',
+        'name' => 'Vytvořit nové oddělení',
     ],
     'departmentsedit' => [
-        'name' => 'Edit Departments',
+        'name' => 'Upravit oddělení',
     ],
     'departmentsdelete' => [
-        'name' => 'Delete Departments',
+        'name' => 'Odstranit oddělení',
     ],
     'locations'   => [
         'name' => 'Umístění',
-        'note'       => 'Grants access to the Locations section of the application.',
+        'note'       => 'Umožňuje přístup do sekce Umístění.',
     ],
     'locationsview' => [
-        'name' => 'View Locations',
+        'name' => 'Zobrazit umístění',
     ],
     'locationscreate' => [
-        'name' => 'Create New Locations',
+        'name' => 'Vytvořit nové umístění',
     ],
     'locationsedit' => [
-        'name' => 'Edit Locations',
+        'name' => 'Upravit umístění',
     ],
     'locationsdelete' => [
-        'name' => 'Delete Locations',
+        'name' => 'Odstranit umístění',
     ],
     'status-labels'   => [
         'name' => 'Označení stavu',
-        'note'       => 'Grants access to the Status Labels section of the application used by Assets.',
+        'note'       => 'Umožňuje přístup do sekce Označení stavu.',
     ],
     'statuslabelsview' => [
-        'name' => 'View Status Labels',
+        'name' => 'Zobrazit označení stavu',
     ],
     'statuslabelscreate' => [
-        'name' => 'Create New Status Labels',
+        'name' => 'Vytvořit nové označení stavu',
     ],
     'statuslabelsedit' => [
-        'name' => 'Edit Status Labels',
+        'name' => 'Upravit označení stavu',
     ],
     'statuslabelsdelete' => [
-        'name' => 'Delete Status Labels',
+        'name' => 'Odstranit označení stavu',
     ],
     'custom-fields'   => [
         'name' => 'Vlastní pole',
-        'note'       => 'Grants access to the Custom Fields section of the application used by Assets.',
+        'note'       => 'Umožňuje přístup do sekce Vlastní pole používané aktivy.',
     ],
     'customfieldsview' => [
-        'name' => 'View Custom Fields',
+        'name' => 'Zobrazit vlastní pole',
     ],
     'customfieldscreate' => [
-        'name' => 'Create New Custom Fields',
+        'name' => 'Vytvořit nové vlastní pole',
     ],
     'customfieldsedit' => [
-        'name' => 'Edit Custom Fields',
+        'name' => 'Upravit vlastní pole',
     ],
     'customfieldsdelete' => [
-        'name' => 'Delete Custom Fields',
+        'name' => 'Odstranit vlastní pole',
     ],
     'suppliers'   => [
         'name' => 'Dodavatelé',
-        'note'       => 'Grants access to the Suppliers section of the application.',
+        'note'       => 'Umožňuje přístup do sekce Dodavatelé.',
     ],
     'suppliersview' => [
-        'name' => 'View Suppliers',
+        'name' => 'Zobrazit dodavatele',
     ],
     'supplierscreate' => [
-        'name' => 'Create New Suppliers',
+        'name' => 'Vytvořit nové dodavatele',
     ],
     'suppliersedit' => [
-        'name' => 'Edit Suppliers',
+        'name' => 'Upravit dodavatele',
     ],
     'suppliersdelete' => [
-        'name' => 'Delete Suppliers',
+        'name' => 'Odstranit dodavatele',
     ],
     'manufacturers'   => [
         'name' => 'Výrobci',
-        'note'       => 'Grants access to the Manufacturers section of the application.',
+        'note'       => 'Umožňuje přístup do sekce Výrobci.',
     ],
     'manufacturersview' => [
-        'name' => 'View Manufacturers',
+        'name' => 'Zobrazit výrobce',
     ],
     'manufacturerscreate' => [
-        'name' => 'Create New Manufacturers',
+        'name' => 'Vytvořit nové výrobce',
     ],
     'manufacturersedit' => [
-        'name' => 'Edit Manufacturers',
+        'name' => 'Upravit výrobce',
     ],
     'manufacturersdelete' => [
-        'name' => 'Delete Manufacturers',
+        'name' => 'Odstranit výrobce',
     ],
     'companies'   => [
         'name' => 'Firmy',
-        'note'       => 'Grants access to the Companies section of the application.',
+        'note'       => 'Umožňuje přístup do sekce Firmy.',
     ],
     'companiesview' => [
-        'name' => 'View Companies',
+        'name' => 'Zobrazit firmy',
     ],
     'companiescreate' => [
-        'name' => 'Create New Companies',
+        'name' => 'Vytvořit nové firmy',
     ],
     'companiesedit' => [
-        'name' => 'Edit Companies',
+        'name' => 'Upravit firmy',
     ],
     'companiesdelete' => [
-        'name' => 'Delete Companies',
+        'name' => 'Odstranit firmy',
     ],
     'user-self-accounts' => [
-        'name' => 'User Self Accounts',
-        'note'       => 'Grants non-admin users the ability to manage certain aspects of their own user accounts.',
+        'name' => 'Úprava svého účtu',
+        'note'       => 'Umožňuje běžným uživatelům spravovat určité aspekty jejich vlastních uživatelských účtů.',
     ],
     'selftwo-factor' => [
-        'name' => 'Manage Two-Factor Authentication',
-        'note'       => 'Allows users to enable, disable, and manage two-factor authentication for their own accounts.',
+        'name' => 'Správa dvoufaktorové autentizace',
+        'note'       => 'Umožňuje uživatelům povolit, zakázat a spravovat dvoufaktorovou autentizaci pro jejich vlastní účty.',
     ],
     'selfapi' => [
-        'name' => 'Manage API Tokens',
-        'note'       => 'Allows users to create, view, and revoke their own API tokens. User tokens will have the same permissions as the user who created them.',
+        'name' => 'Správa API tokenů',
+        'note'       => 'Umožňuje uživatelům vytvářet, zobrazovat a odvolávat své vlastní API tokeny. Uživatelské tokeny budou mít stejná oprávnění jako uživatel, který je vytvořil.',
     ],
     'selfedit-location' => [
-        'name' => 'Edit Location',
-        'note'       => 'Allows users to edit the location associated with their own user account.',
+        'name' => 'Úprava umístění',
+        'note'       => 'Umožňuje uživatelům upravovat umístění spojené s jejich vlastním uživatelským účtem.',
     ],
     'selfcheckout-assets' => [
-        'name' => 'Self Check Out Assets',
-        'note'       => 'Allows users to check out assets to themselves without admin intervention.',
+        'name' => 'Samostatné vypůjčení zařízení',
+        'note'       => 'Umožňuje uživatelům vypůjčit si zařízení sami bez zásahu správce.',
     ],
     'selfview-purchase-cost' => [
-        'name' => 'View Purchase Cost',
-        'note'       => 'Allows users to view the purchase cost of items in their account view.',
+        'name' => 'Zobrazit nákupní cenu',
+        'note'       => 'Umožňuje uživatelům zobrazit nákupní cenu položek ve svém zobrazení účtu.',
     ],
 
     'depreciations' => [
-        'name' => 'Depreciation Management',
-        'note'       => 'Allows users to manage and view asset depreciation details.',
+        'name' => 'Správa odpisů',
+        'note'       => 'Umožňuje uživatelům spravovat a zobrazovat podrobnosti o odpisu zařízení.',
     ],
     'depreciationsview' => [
-        'name' => 'View Depreciation Details',
+        'name' => 'Zobrazit podrobnosti o odpisu',
     ],
     'depreciationsedit' => [
-        'name' => 'Edit Depreciation Settings',
+        'name' => 'Upravit nastavení odpisů',
     ],
     'depreciationsdelete' => [
-        'name' => 'Delete Depreciation Records',
+        'name' => 'Odstranit záznamy o odpisu',
     ],
     'depreciationscreate' => [
-        'name' => 'Create Depreciation Records',
+        'name' => 'Vytvořit záznamy o odpisu',
     ],
 
-    'grant_all' => 'Grant all permissions for :area',
-    'deny_all' => 'Deny all permissions for :area',
-    'inherit_all' => 'Inherit all permissions for :area from permission groups',
-    'grant' => 'Grant Permission for :area',
-    'deny' => 'Deny Permission for :area',
-    'inherit' => 'Inherit Permission for :area from permission groups',
-    'use_groups' => 'We strongly suggest using Permission Groups instead of assigning individual permissions for easier management.'
+    'grant_all' => 'Přiřadit všechna oprávnění pro :area',
+    'deny_all' => 'Odepřít všechna oprávnění pro :area',
+    'inherit_all' => 'Dědit všechna oprávnění pro :area ze skupin oprávnění',
+    'grant' => 'Přiřadit oprávnění pro :area',
+    'deny' => 'Odepřít oprávnění pro :area',
+    'inherit' => 'Dědit oprávnění pro :area ze skupin oprávnění',
+    'use_groups' => 'Důrazně doporučujeme používat skupiny oprávnění místo přiřazování jednotlivých oprávnění pro snadnější správu.'
 
 );
