@@ -31,5 +31,5 @@ return [
 
     'depreciations' => 'Můžete nastavit amortizaci majetku pro jeho rovnoměrné odepisování.',
     
-    'empty_file'    => 'Dovozce zjistí, že tento soubor je prázdný.'
+    'empty_file'    => 'CSV importer zjistil, že tento soubor je prázdný.'
 ];
